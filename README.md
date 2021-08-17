@@ -1,7 +1,8 @@
 # Drago_Bot
-Personal Discord Bot
+Disclaimer: This bot is unfinished
 
-Discord Bot that can:
+
+Personal Discord Bot that can:
 - Play music
 - Clip YouTube Videos
 - Display the current time
